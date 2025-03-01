@@ -14,8 +14,8 @@ manifest:
     - name: eyelash_sofle
       url: https://github.com/a741725193/zmk-sofle
       revision: refactor
-    - name: sofle-peripheral-animation
-      remote: ImBada
+    - name: hammerbeam-slideshow
+      remote: gpeye
       revision: main 
     - name: zmk
       remote: zmkfirmware
